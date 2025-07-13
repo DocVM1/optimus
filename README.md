@@ -15,7 +15,7 @@ Paste any raw prompt, and Optimus will:
 * Understand what you're trying to ask
 * Suggest **missing details** that would make the prompt more complete
 
-It’s fast, lightweight, and free. Built for anyone who talks to LLMs.
+It’s fast and free. Built for anyone who talks to LLMs.
 
 ---
 
