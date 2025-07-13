@@ -1,6 +1,6 @@
 # optimus 
 
-> A minimal AI tool that helps you write better prompts — without rewriting them.
+A minimal AI tool that helps you write better prompts...
 
 ### 🚀 Live Demo
 
